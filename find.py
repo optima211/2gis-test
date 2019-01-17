@@ -1,5 +1,4 @@
 import re
-import string
 
 frequency = {}
 document_text = open('test.txt', 'r')
